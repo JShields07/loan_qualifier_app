@@ -1,18 +1,20 @@
 # Project Title
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+A loan qualifier app that takes applicant data (credit score, income, debt,etc,) and gives them an easy and convienent solution to visualize their ability to qualify from the data that is input.
 
 ---
 
 ## Technologies
 
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
-
+Python is the core coding language for this to handle the extense of the app with the utils and filters also being depending on python. 
+The data used for computation works off a CSV format.
+It is also dependent on Questionary and Fire.
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Simply download the files, fillout data fields to compute the data and run everything through VSC with python dev environment.
 
 ---
 
@@ -24,7 +26,8 @@ This section should include screenshots, code blocks, or animations explaining h
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+JShields07-Me
+FinTech Program-Original Contributers of files
 
 ---
 
