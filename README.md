@@ -6,7 +6,6 @@ A loan qualifier app that takes applicant data (credit score, income, debt,etc,)
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 Python is the core coding language for this to handle the extense of the app with the utils and filters also being depending on python. 
 The data used for computation works off a CSV format.
 It is also dependent on Questionary and Fire.
